@@ -13,94 +13,65 @@
     {
       "title": "Line & Curves",
       "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "Description for Line & Curve",
       "images": [
         "images/portfolio/line&curve/image1.jpeg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/line&curve/image2.jpeg",
+        "images/portfolio/line&curve/image3.jpeg",
+        "images/portfolio/line&curve/image4.jpeg",
+        "images/portfolio/line&curve/image5.jpeg",
+        "images/portfolio/line&curve/image6.jpeg",
+        "images/portfolio/line&curve/image7.jpeg",
+        "images/portfolio/line&curve/image8.jpeg"
       ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
+      "url": ""
     },
     {
       "title": "Night Light",
       "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Description for Night Light",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/line&curve/image9.jpeg",
+        "images/portfolio/line&curve/image10.jpeg",
+        "images/portfolio/line&curve/image11.jpeg",
+        "images/portfolio/line&curve/image12.jpeg",
+        "images/portfolio/line&curve/image13.jpeg",
+        "images/portfolio/line&curve/image14.jpeg",
+        "images/portfolio/line&curve/image15.jpeg"
       ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "Trains",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
+      "url": "https://github.com"
     },
     {
       "title": "Nature",
       "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "description": "Description for Nature",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/line&curve/image18.jpeg",
+        "images/portfolio/line&curve/image19.jpeg",
+        "images/portfolio/line&curve/image20.jpeg",
+        "images/portfolio/line&curve/image21.jpeg",
+        "images/portfolio/line&curve/image22.jpeg",
+        "images/portfolio/line&curve/image23.jpeg",
+        "images/portfolio/line&curve/image24.jpeg",
+        "images/portfolio/line&curve/image25.jpeg"
       ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
+      "url": "https://github.com"
+    },
+    {
+      "title": "Train",
+      "startDate": "2015",
+      "description": "Description for Trains",
+      "images": [
+        "images/portfolio/line&curve/image26.jpeg",
+        "images/portfolio/line&curve/image27.jpeg",
+        "images/portfolio/line&curve/image28.jpeg",
+        "images/portfolio/line&curve/image29.jpeg",
+        "images/portfolio/line&curve/image30.jpeg",
+        "images/portfolio/line&curve/image31.jpeg",
+        "images/portfolio/line&curve/image32.jpeg",
+        "images/portfolio/line&curve/image33.jpeg"
+      ],
+      "url": "https://github.com"
     }
   ],
   "experience": [
