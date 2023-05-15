@@ -32,7 +32,13 @@ class About extends Component {
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
-                  <img height="250px" src={profilepic} alt="placeholder" />
+                  {/* <img height="250px" src={profilepic} alt="placeholder" /> */}
+                  <img
+                    height="250px"
+                    src={process.env.PUBLIC_URL + "/images/profile.jpeg"}
+                    alt="placeholder"
+                  />
+
                   {/* <Icon
                     icon={angularIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
