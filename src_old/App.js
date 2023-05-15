@@ -9,6 +9,7 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 class App extends Component {
+
   constructor(props) {
     super();
     this.state = {
@@ -82,7 +83,6 @@ class App extends Component {
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
-        {/* language selector */}
         <div className="col-md-12 mx-auto text-center language">
           <div
             onClick={() =>
@@ -95,7 +95,7 @@ class App extends Component {
           >
             <span
               className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-states"
+              data-icon="twemoji-flag-for-flag-united-kingdom"
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
@@ -111,7 +111,7 @@ class App extends Component {
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-south-korea"
+              data-icon="twemoji-flag-for-flag-poland"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
@@ -125,10 +125,10 @@ class App extends Component {
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        {/* <Skills
+        <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        /> */}
+        />
         <Experience
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}

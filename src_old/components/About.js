@@ -18,22 +18,19 @@ class About extends Component {
     return (
       <section id="about">
         <div className="col-md-12">
-          <h1
-            style={{
-              color: "black",
-              textAlign: "center",
-              fontSize: "3rem",
-              fontWeight: 700,
-            }}
-          >
+          <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
-                  <img height="250px" src={profilepic} alt="placeholder" />
-                  {/* <Icon
+                  <img
+                    height="250px"
+                    src={profilepic}
+                    alt="Avatar placeholder"
+                  />
+                  <Icon
                     icon={angularIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
@@ -44,15 +41,14 @@ class About extends Component {
                   <Icon
                     icon={vueIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
+                  />
                 </span>
               </div>
             </div>
 
             <div className="col-md-8 center">
-              <div className="col-md-10" style={{ fontSize: "2rem" }}>
-                {about}
-                {/* <div className="card">
+              <div className="col-md-10">
+                <div className="card">
                   <div className="card-header">
                     <span
                       className="iconify"
@@ -86,7 +82,7 @@ class About extends Component {
                     <br />
                     {about}
                   </div>
-                </div> */}
+                </div>
               </div>
             </div>
           </div>
