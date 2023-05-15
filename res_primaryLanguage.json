@@ -32,11 +32,11 @@
       "description": "Description for Night Light",
       "images": [
         "images/portfolio/nightlight/p9.jpeg",
-        "images/portfolio/nightlight/p0.jpeg",
-        "images/portfolio/nightlight/p1.jpeg",
-        "images/portfolio/nightlight/p2.jpeg",
-        "images/portfolio/nightlight/p3.jpeg",
-        "images/portfolio/nightlight/p4.jpeg",
+        "images/portfolio/nightlight/p10.jpeg",
+        "images/portfolio/nightlight/p11.jpeg",
+        "images/portfolio/nightlight/p12.jpeg",
+        "images/portfolio/nightlight/p13.jpeg",
+        "images/portfolio/nightlight/p14.jpeg",
         "images/portfolio/nightlight/p15.jpeg"
       ],
       "url": "https://github.com"
@@ -53,12 +53,12 @@
         "images/portfolio/nature/p22.jpeg",
         "images/portfolio/nature/p23.jpeg",
         "images/portfolio/nature/p24.jpeg",
-        "images/portfolio/nature/pe25.jpeg"
+        "images/portfolio/nature/p25.jpeg"
       ],
       "url": "https://github.com"
     },
     {
-      "title": "Train",
+      "title": "Trains",
       "startDate": "2015",
       "description": "Description for Trains",
       "images": [
