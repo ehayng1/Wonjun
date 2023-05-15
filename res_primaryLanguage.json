@@ -31,13 +31,13 @@
       "startDate": "2018",
       "description": "Description for Night Light",
       "images": [
-        "images/portfolio/line&curve/image9.jpeg",
-        "images/portfolio/line&curve/image10.jpeg",
-        "images/portfolio/line&curve/image11.jpeg",
-        "images/portfolio/line&curve/image12.jpeg",
-        "images/portfolio/line&curve/image13.jpeg",
-        "images/portfolio/line&curve/image14.jpeg",
-        "images/portfolio/line&curve/image15.jpeg"
+        "images/portfolio/nightlight/image9.jpeg",
+        "images/portfolio/nightlight/image10.jpeg",
+        "images/portfolio/nightlight/image11.jpeg",
+        "images/portfolio/nightlight/image12.jpeg",
+        "images/portfolio/nightlight/image13.jpeg",
+        "images/portfolio/nightlight/image14.jpeg",
+        "images/portfolio/nightlight/image15.jpeg"
       ],
       "url": "https://github.com"
     },
@@ -46,14 +46,14 @@
       "startDate": "2015",
       "description": "Description for Nature",
       "images": [
-        "images/portfolio/line&curve/image18.jpeg",
-        "images/portfolio/line&curve/image19.jpeg",
-        "images/portfolio/line&curve/image20.jpeg",
-        "images/portfolio/line&curve/image21.jpeg",
-        "images/portfolio/line&curve/image22.jpeg",
-        "images/portfolio/line&curve/image23.jpeg",
-        "images/portfolio/line&curve/image24.jpeg",
-        "images/portfolio/line&curve/image25.jpeg"
+        "images/portfolio/nature/image18.jpeg",
+        "images/portfolio/nature/image19.jpeg",
+        "images/portfolio/nature/image20.jpeg",
+        "images/portfolio/nature/image21.jpeg",
+        "images/portfolio/nature/image22.jpeg",
+        "images/portfolio/nature/image23.jpeg",
+        "images/portfolio/nature/image24.jpeg",
+        "images/portfolio/nature/image25.jpeg"
       ],
       "url": "https://github.com"
     },
@@ -62,16 +62,16 @@
       "startDate": "2015",
       "description": "Description for Trains",
       "images": [
-        "images/portfolio/line&curve/image26.jpeg",
-        "images/portfolio/line&curve/image27.jpeg",
-        "images/portfolio/line&curve/image28.jpeg",
-        "images/portfolio/line&curve/image29.jpeg",
-        "images/portfolio/line&curve/image30.jpeg",
-        "images/portfolio/line&curve/image31.jpeg",
-        "images/portfolio/line&curve/image32.jpeg",
-        "images/portfolio/line&curve/image33.jpeg"
+        "images/portfolio/trains/image26.jpeg",
+        "images/portfolio/trains/image27.jpeg",
+        "images/portfolio/trains/image28.jpeg",
+        "images/portfolio/trains/image29.jpeg",
+        "images/portfolio/trains/image30.jpeg",
+        "images/portfolio/trains/image31.jpeg",
+        "images/portfolio/trains/image32.jpeg",
+        "images/portfolio/trains/image33.jpeg"
       ],
-      "url": "https://github.com"
+      "url": ""
     }
   ],
   "experience": [
